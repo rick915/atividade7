@@ -5,10 +5,11 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-:root{
-    --main-background: #404040;
-    --text-color: #fafafa;
-    --nav-background: #0a0a0a  ;
+:root {
+    --main-background: #022c22;
+    --text-color: #a7f3d0;
+    --nav-background: #059669;
+    --a-hover: #126779;
 }
 
 body{
